@@ -1,0 +1,2 @@
+in git , we can stage the files using git add . and if we have to undo it or simply unstage it, we can use 
+git rm --cached <file name>
